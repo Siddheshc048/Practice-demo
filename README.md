@@ -1,4 +1,4 @@
 # Practice-demo
 This is my first Git Repository
 <br>
-Author - Siddhesh Chaudhari
+Author - Siddhesh (Mechanical Engineering)
